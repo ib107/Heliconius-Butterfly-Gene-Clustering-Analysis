@@ -18,7 +18,7 @@ This project examines clustering patterns in *Heliconius* butterfly species by a
 - `Data/`: Contains raw DNA sequence data and processed alignment files. 
 - `R Script/`: Script for sequence preprocessing, clustering analysis, and visualization.
 - `Plots/`:  Significant figures, and visualizations.
-- Assignment 2 PDF: Written evaluationa and analysis.
+- Assignment 2 PDF: Written evaluation and analysis.
 - `README.md`: Project overview and instructions.
 
 ## Data Sources
